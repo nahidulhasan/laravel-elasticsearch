@@ -23,4 +23,5 @@ docker-compose exec app php artisan db:seed
 ```
 
 Hit the url:
+
 `http://127.0.0.1:2000/`
